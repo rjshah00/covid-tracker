@@ -18,3 +18,11 @@ You will also see any lint errors in the console.
 So in this website I am providing user to see ongoing live cases,deaths and recovered cases in form of Graphs,Maps and numerical Figures.</br>
 I have used disease.sh website for all the details 
 .
+
+#### Technologies Used - 
+<ul>
+  <li>React Js</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Bootstrap</li>
+</ul>
